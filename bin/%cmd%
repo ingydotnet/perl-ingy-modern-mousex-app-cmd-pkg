@@ -1,0 +1,4 @@
+#!/usr/bin/perl
+
+use [% module.name %];
+[% module.name %]->run;
